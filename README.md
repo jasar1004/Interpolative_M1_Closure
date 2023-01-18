@@ -13,3 +13,7 @@ Description of the different subdirectories:
   for non-linear optimization.
 
 - M1_Closure_Interp: contains the code that performs the interpolation of the maximum entropy solutions.
+
+- Gray_M1_Closure:
+
+- Non_Gray_M1_Closure:
