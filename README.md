@@ -12,4 +12,4 @@ Description of the different subdirectories:
   moments up to first-order. It calls the optimization algorithm from the nlopt open source code 
   for non-linear optimization.
 
-- M1_interp: contains the code that performs the interpolation of the maximum entropy solutions.
+- M1_Closure_interp: contains the code that performs the interpolation of the maximum entropy solutions.
